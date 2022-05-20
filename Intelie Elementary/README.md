@@ -1,5 +1,8 @@
 # Links
 
+## Spreadsheet with phrases and words
+- [My phrases and words](https://docs.google.com/spreadsheets/d/1eQ1qecynXf31yaHNyQMXfP1touUFo5J5d3aRKY7d5sY/edit?usp=sharing)
+
 ## Books
 - [Basic Grammar In Use 2nd Edition With Answers](https://pdfcookie.com/documents/basic-grammar-in-use-2nd-edition-with-answers-ov1406xm0ov1)
 
